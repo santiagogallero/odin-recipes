@@ -1,0 +1,38 @@
+a {
+    text-decoration: none;
+    color: black;
+  }
+.mi-lista{
+    list-style-type: none;
+    padding: 0;
+}
+.mi-lista{
+    margin: 10px 0;
+}
+.mi-lista button{
+    background-color: #4CAF50;
+    border-radius: 4px;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.mi-lista button:hover{
+    background-color: #3e8e41;
+}
+
+
+div{
+    color: rgb(106, 112, 113);
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    color:red
+}
